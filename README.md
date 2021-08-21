@@ -22,8 +22,6 @@ Index.html
 
 
 Style.css
-
-
 html
 {
     margin: 0;
@@ -31,7 +29,6 @@ html
     width: 100%;
     height: 100vh;
 }
-
 body
 {
     margin: 0;
