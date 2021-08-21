@@ -1,31 +1,30 @@
 
-
- index.html->
+index.html->
     
-     Index.html
-   <!DOCTYPE html>
+Index.html
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>Designing the sign in form</title>
-        <link rel="stylesheet" type="text/css" href="style.css">
-    </head>
-    <body>
-        <div class="signin">
-            <form>
-                <h2>Sign in</h2>
-                <input type="text" placeholder="Enter username">
-                <input type="text" placeholder="Enter password">
-                <button class="btn">Sign In</button>
-            </form>
-        </div>
-    </body>
+<head>
+<title>Designing the sign in form</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="signin">
+<form>
+<h2>Sign in</h2>
+<input type="text" placeholder="Enter username">
+<input type="text" placeholder="Enter password">
+<button class="btn">Sign In</button>
+</form>
+</div>
+</body>
 </html>
 
 
 Style.css
 
 
-   html
+html
 {
     margin: 0;
     padding: 0;
