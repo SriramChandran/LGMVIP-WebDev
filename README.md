@@ -1,7 +1,6 @@
 
-index.html->
+index.html
     
-Index.html
 <!DOCTYPE html>
 <html>
 <head>
